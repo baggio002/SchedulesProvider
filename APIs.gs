@@ -1,4 +1,4 @@
-const SCHEDULES_PROVIDER_SHEETS_ID = '1SCLDsakAGT_4KaIOUQ-p9BE23iPTC1Did55x7I738yI';
+const SCHEDULES_PROVIDER_SHEETS_ID = '<sheet id>';
 
 /**
  * get TSRs raw data by shard
